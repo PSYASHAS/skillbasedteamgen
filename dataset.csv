@@ -1,0 +1,201 @@
+USN,Student_Name,Year,C_Programming_Knowledge,Idea_Lab_Knowledge,Skill_Lab_Project_Knowledge,Leadership_Quality,Teamwork,Communication_Skill,Domain_of_Interest
+1RV24CS001,Jivin,1st Year,10,1,Embedded Systems,10,7,8,AI/ML
+1RV24CS002,Kiaan,1st Year,1,6,Python Basics,6,3,7,Cloud Computing
+1RV24CS003,Anika,1st Year,5,4,Sensor Integration,9,3,3,Data Science
+1RV24CS004,Vidur,1st Year,10,1,Database Connectivity,4,6,4,Data Science
+1RV24CS005,Prerak,1st Year,5,5,Arduino Projects,4,5,1,Game Development
+1RV24CS006,Alisha,1st Year,10,2,Sensor Integration,7,7,1,Web Development
+1RV24CS007,Aradhya,1st Year,2,7,Arduino Projects,4,3,10,Web Development
+1RV24CS008,Ela,1st Year,7,8,Web Application Basics,8,10,1,Robotics
+1RV24CS009,Mohanlal,1st Year,6,2,Arduino Projects,2,7,6,Cyber Security
+1RV24CS010,Amani,1st Year,7,1,Python Basics,6,5,4,AI/ML
+1RV24CS011,Arnav,1st Year,9,9,Database Connectivity,5,7,5,Cyber Security
+1RV24CS012,Ojas,1st Year,8,8,Arduino Projects,7,5,4,Cyber Security
+1RV24CS013,Divyansh,1st Year,2,4,Database Connectivity,7,10,5,Cloud Computing
+1RV24CS014,Reyansh,1st Year,1,2,Automation Projects,6,3,6,IoT
+1RV24CS015,Arhaan,1st Year,4,2,Mini C Projects,4,10,5,UI/UX Design
+1RV24CS016,Fateh,1st Year,1,3,Problem Solving,3,4,2,Game Development
+1RV24CS017,Anika,1st Year,3,3,Automation Projects,2,6,10,Robotics
+1RV24CS018,Lakshit,1st Year,1,1,Database Connectivity,4,2,3,Cloud Computing
+1RV24CS019,Anay,1st Year,9,10,Problem Solving,8,2,8,Robotics
+1RV24CS020,Mahika,1st Year,1,4,Sensor Integration,1,1,1,Cloud Computing
+1RV24CS021,Chirag,1st Year,3,10,Embedded Systems,7,5,3,Game Development
+1RV24CS022,Nishith,1st Year,2,8,Electronics Prototyping,6,7,7,Data Science
+1RV24CS023,Sana,1st Year,4,6,Embedded Systems,10,10,9,AI/ML
+1RV24CS024,Kaira,1st Year,3,8,Arduino Projects,8,6,1,Cloud Computing
+1RV24CS025,Jivin,1st Year,3,6,Electronics Prototyping,2,1,5,Cyber Security
+1RV24CS026,Riya,1st Year,4,10,Sensor Integration,1,4,2,IoT
+1RV24CS027,Zain,1st Year,2,10,Problem Solving,4,2,4,Robotics
+1RV24CS028,Raghav,1st Year,6,1,Problem Solving,10,10,10,Web Development
+1RV24CS029,Mishti,1st Year,2,10,Automation Projects,5,7,8,App Development
+1RV24CS030,Adira,1st Year,3,5,Arduino Projects,3,4,2,Game Development
+1RV24CS031,Ritvik,1st Year,9,4,Electronics Prototyping,1,4,8,Data Science
+1RV24CS032,Tushar,1st Year,2,1,Electronics Prototyping,10,1,8,Game Development
+1RV24CS033,Myra,1st Year,4,6,Python Basics,1,9,5,App Development
+1RV24CS034,Jayan,1st Year,6,7,Mini C Projects,1,2,7,IoT
+1RV24CS035,Tejas,1st Year,5,3,Problem Solving,1,6,4,Robotics
+1RV24CS036,Jivin,1st Year,8,2,Electronics Prototyping,6,6,2,Cloud Computing
+1RV24CS037,Alisha,1st Year,3,8,Automation Projects,1,5,6,Robotics
+1RV24CS038,Anya,1st Year,4,5,Automation Projects,3,3,1,Game Development
+1RV24CS039,Sara,1st Year,6,5,Database Connectivity,2,1,1,IoT
+1RV24CS040,Onkar,1st Year,9,5,Problem Solving,8,5,6,Robotics
+1RV24CS041,Biju,1st Year,8,4,Arduino Projects,1,1,3,Cloud Computing
+1RV24CS042,Nitara,1st Year,2,5,Web Application Basics,9,7,2,UI/UX Design
+1RV24CS043,Shanaya,1st Year,4,7,Problem Solving,6,1,2,App Development
+1RV24CS044,Ishita,1st Year,4,8,Embedded Systems,4,10,5,Game Development
+1RV24CS045,Lakshit,1st Year,10,2,Electronics Prototyping,7,6,4,UI/UX Design
+1RV24CS046,Madhup,1st Year,8,8,Sensor Integration,3,3,6,IoT
+1RV24CS047,Dishani,1st Year,4,3,Web Application Basics,4,3,5,UI/UX Design
+1RV24CS048,Zaina,1st Year,8,6,Python Basics,9,7,4,UI/UX Design
+1RV24CS049,Dhanush,1st Year,10,3,Python Basics,10,9,8,Cloud Computing
+1RV24CS050,Badal,1st Year,4,3,Embedded Systems,10,9,2,Cloud Computing
+1RV24CS051,Aarna,1st Year,7,7,Mini C Projects,3,9,5,Data Science
+1RV24CS052,Ira,1st Year,3,5,Web Application Basics,2,3,5,IoT
+1RV24CS053,Divit,1st Year,6,8,Problem Solving,9,2,10,Robotics
+1RV24CS054,Kartik,1st Year,7,2,Arduino Projects,2,5,8,AI/ML
+1RV24CS055,Taran,1st Year,2,3,Python Basics,3,9,4,Data Science
+1RV24CS056,Kiara,1st Year,10,1,Electronics Prototyping,10,3,2,Data Science
+1RV24CS057,Tiya,1st Year,10,7,Embedded Systems,4,9,9,Data Science
+1RV24CS058,Mamooty,1st Year,9,5,Automation Projects,2,9,2,Cloud Computing
+1RV24CS059,Yashvi,1st Year,3,10,Automation Projects,9,3,8,Cloud Computing
+1RV24CS060,Anahita,1st Year,4,2,Embedded Systems,5,2,3,Data Science
+1RV24CS061,Tara,1st Year,4,1,Embedded Systems,6,10,7,IoT
+1RV24CS062,Prerak,1st Year,7,2,Mini C Projects,1,6,10,IoT
+1RV24CS063,Lakshit,1st Year,6,9,Python Basics,6,3,4,UI/UX Design
+1RV24CS064,Heer,1st Year,2,10,Embedded Systems,8,3,3,Data Science
+1RV24CS065,Chirag,1st Year,4,6,Automation Projects,10,9,1,Cyber Security
+1RV24CS066,Lakshay,1st Year,1,7,Problem Solving,2,9,10,Cyber Security
+1RV24CS067,Amani,1st Year,3,5,Embedded Systems,10,10,5,Robotics
+1RV24CS068,Shayak,1st Year,6,10,Embedded Systems,5,9,3,Web Development
+1RV24CS069,Rati,1st Year,6,8,Problem Solving,8,7,7,Game Development
+1RV24CS070,Eshani,1st Year,6,1,Problem Solving,6,8,2,UI/UX Design
+1RV24CS071,Nakul,1st Year,2,8,Embedded Systems,4,7,10,Robotics
+1RV24CS072,Rania,1st Year,1,5,Embedded Systems,8,6,5,Web Development
+1RV24CS073,Anahi,1st Year,10,3,Electronics Prototyping,9,6,8,AI/ML
+1RV24CS074,Neysa,1st Year,6,7,Mini C Projects,3,2,4,AI/ML
+1RV24CS075,Indrans,1st Year,9,8,Web Application Basics,5,4,8,Data Science
+1RV24CS076,Piya,1st Year,10,10,Embedded Systems,1,3,3,AI/ML
+1RV24CS077,Anay,1st Year,6,1,Sensor Integration,9,5,10,Web Development
+1RV24CS078,Anahita,1st Year,6,2,Problem Solving,10,9,5,App Development
+1RV24CS079,Suhana,1st Year,8,8,Mini C Projects,2,10,9,Robotics
+1RV24CS080,Sana,1st Year,4,1,Database Connectivity,8,1,7,IoT
+1RV24CS081,Samarth,1st Year,8,4,Problem Solving,9,1,10,AI/ML
+1RV24CS082,Lakshay,1st Year,8,6,Electronics Prototyping,3,9,6,App Development
+1RV24CS083,Shayak,1st Year,1,8,Web Application Basics,9,2,3,Cyber Security
+1RV24CS084,Kartik,1st Year,2,5,Electronics Prototyping,9,6,4,UI/UX Design
+1RV24CS085,Mishti,1st Year,6,8,Database Connectivity,1,2,2,Game Development
+1RV24CS086,Sara,1st Year,4,8,Automation Projects,4,8,2,UI/UX Design
+1RV24CS087,Yakshit,1st Year,3,3,Python Basics,4,9,1,App Development
+1RV24CS088,Zain,1st Year,1,9,Problem Solving,4,2,6,Data Science
+1RV24CS089,Vidur,1st Year,2,1,Automation Projects,4,1,4,Cloud Computing
+1RV24CS090,Parinaaz,1st Year,3,1,Mini C Projects,8,8,7,AI/ML
+1RV24CS091,Hansh,1st Year,7,2,Automation Projects,8,9,9,Robotics
+1RV24CS092,Prerak,1st Year,9,9,Embedded Systems,4,3,10,App Development
+1RV24CS093,Kimaya,1st Year,1,9,Python Basics,9,8,7,Cyber Security
+1RV24CS094,Eva,1st Year,8,5,Web Application Basics,1,4,6,Data Science
+1RV24CS095,Pihu,1st Year,10,8,Arduino Projects,9,9,1,Data Science
+1RV24CS096,Amira,1st Year,8,10,Web Application Basics,7,3,9,UI/UX Design
+1RV24CS097,Yuvraj ,1st Year,9,8,Embedded Systems,7,3,4,Cyber Security
+1RV24CS098,Elakshi,1st Year,7,4,Problem Solving,1,10,4,Robotics
+1RV24CS099,Hrishita,1st Year,3,7,Problem Solving,2,6,6,Robotics
+1RV24CS100,Raunak,1st Year,4,9,Electronics Prototyping,7,9,8,Robotics
+1RV24CS101,Azad,1st Year,7,3,Mini C Projects,7,1,4,Cyber Security
+1RV24CS102,Nitara,1st Year,4,8,Embedded Systems,10,8,6,Game Development
+1RV24CS103,Amani,1st Year,7,6,Embedded Systems,7,4,8,AI/ML
+1RV24CS104,Devansh,1st Year,2,1,Problem Solving,3,6,8,Web Development
+1RV24CS105,Aarna,1st Year,6,7,Electronics Prototyping,8,5,7,IoT
+1RV24CS106,Drishya,1st Year,6,9,Web Application Basics,2,1,4,Cloud Computing
+1RV24CS107,Jayant,1st Year,3,1,Electronics Prototyping,6,2,7,Web Development
+1RV24CS108,Shayak,1st Year,1,9,Embedded Systems,2,10,5,App Development
+1RV24CS109,Nirvaan,1st Year,9,5,Arduino Projects,4,8,9,AI/ML
+1RV24CS110,Jiya,1st Year,5,3,Arduino Projects,7,7,5,Cyber Security
+1RV24CS111,Fateh,1st Year,9,6,Web Application Basics,7,8,3,AI/ML
+1RV24CS112,Zeeshan,1st Year,3,2,Electronics Prototyping,3,9,3,AI/ML
+1RV24CS113,Anvi,1st Year,7,3,Python Basics,4,2,10,Cloud Computing
+1RV24CS114,Shalv,1st Year,5,4,Problem Solving,2,4,4,Data Science
+1RV24CS115,Khushi,1st Year,7,8,Mini C Projects,5,8,7,UI/UX Design
+1RV24CS116,Reyansh,1st Year,8,6,Mini C Projects,6,2,2,Cyber Security
+1RV24CS117,Gatik,1st Year,6,4,Web Application Basics,1,7,10,Robotics
+1RV24CS118,Reyansh,1st Year,1,4,Mini C Projects,1,8,5,Game Development
+1RV24CS119,Inaaya ,1st Year,5,5,Arduino Projects,10,9,9,Web Development
+1RV24CS120,Baiju,1st Year,8,2,Automation Projects,8,1,10,AI/ML
+1RV24CS121,Nakul,1st Year,10,6,Mini C Projects,2,8,8,UI/UX Design
+1RV24CS122,Manikya,1st Year,9,2,Problem Solving,7,6,7,Cyber Security
+1RV24CS123,Saanvi,1st Year,2,2,Mini C Projects,9,8,9,Web Development
+1RV24CS124,Taran,1st Year,8,4,Database Connectivity,5,5,3,AI/ML
+1RV24CS125,Kartik,1st Year,4,8,Database Connectivity,4,3,10,App Development
+1RV24CS126,Nakul,1st Year,3,7,Automation Projects,7,3,1,Data Science
+1RV24CS127,Veer,1st Year,4,2,Automation Projects,1,6,10,App Development
+1RV24CS128,Zoya,1st Year,8,8,Mini C Projects,6,4,2,Data Science
+1RV24CS129,Dhanuk,1st Year,4,9,Python Basics,3,6,5,IoT
+1RV24CS130,Samarth,1st Year,5,1,Database Connectivity,6,7,1,Data Science
+1RV24CS131,Jayant,1st Year,6,6,Python Basics,6,6,10,App Development
+1RV24CS132,Aradhya,1st Year,1,2,Arduino Projects,5,5,9,Game Development
+1RV24CS133,Samiha,1st Year,5,7,Database Connectivity,2,9,8,Data Science
+1RV24CS134,Sumer,1st Year,4,5,Database Connectivity,7,10,3,Cyber Security
+1RV24CS135,Nitara,1st Year,8,5,Arduino Projects,1,8,10,Robotics
+1RV24CS136,Himmat,1st Year,6,3,Database Connectivity,8,9,7,Web Development
+1RV24CS137,Jhanvi,1st Year,10,4,Mini C Projects,8,3,4,Data Science
+1RV24CS138,Jhanvi,1st Year,1,1,Web Application Basics,2,10,3,IoT
+1RV24CS139,Divij,1st Year,7,5,Automation Projects,2,6,8,Web Development
+1RV24CS140,Oorja,1st Year,5,2,Sensor Integration,5,1,6,Game Development
+1RV24CS141,Nakul,1st Year,1,9,Mini C Projects,2,2,2,Web Development
+1RV24CS142,Ojas,1st Year,7,9,Sensor Integration,10,6,10,Game Development
+1RV24CS143,Nakul,1st Year,9,10,Web Application Basics,10,10,10,Data Science
+1RV24CS144,Ryan,1st Year,8,1,Problem Solving,7,9,7,AI/ML
+1RV24CS145,Purab,1st Year,5,6,Database Connectivity,6,2,7,Data Science
+1RV24CS146,Baiju,1st Year,5,4,Automation Projects,5,3,1,Cloud Computing
+1RV24CS147,Indranil,1st Year,7,10,Electronics Prototyping,2,2,5,Web Development
+1RV24CS148,Ira,1st Year,7,9,Problem Solving,1,5,3,IoT
+1RV24CS149,Kabir,1st Year,6,10,Electronics Prototyping,8,1,5,Robotics
+1RV24CS150,Siya,1st Year,10,8,Python Basics,6,7,10,Web Development
+1RV24CS151,Sana,1st Year,3,7,Arduino Projects,6,4,6,Robotics
+1RV24CS152,Biju,1st Year,3,9,Arduino Projects,7,8,1,AI/ML
+1RV24CS153,Stuvan,1st Year,6,10,Problem Solving,10,1,10,Web Development
+1RV24CS154,Kartik,1st Year,10,7,Arduino Projects,6,10,5,App Development
+1RV24CS155,Samarth,1st Year,10,6,Electronics Prototyping,1,9,1,Web Development
+1RV24CS156,Advik,1st Year,6,5,Database Connectivity,6,8,6,Web Development
+1RV24CS157,Raghav,1st Year,7,4,Automation Projects,4,3,5,UI/UX Design
+1RV24CS158,Piya,1st Year,8,9,Problem Solving,5,8,1,Robotics
+1RV24CS159,Heer,1st Year,3,8,Arduino Projects,9,8,6,Cloud Computing
+1RV24CS160,Lakshay,1st Year,3,7,Sensor Integration,5,8,5,Cyber Security
+1RV24CS161,Arnav,1st Year,6,9,Electronics Prototyping,1,4,10,UI/UX Design
+1RV24CS162,Anay,1st Year,6,7,Arduino Projects,9,3,4,App Development
+1RV24CS163,Kabir,1st Year,4,10,Web Application Basics,5,7,7,Game Development
+1RV24CS164,Ahana ,1st Year,2,7,Database Connectivity,3,8,2,Data Science
+1RV24CS165,Kiaan,1st Year,2,5,Problem Solving,1,7,4,AI/ML
+1RV24CS166,Anahi,1st Year,5,8,Web Application Basics,4,7,8,Cloud Computing
+1RV24CS167,Dishani,1st Year,2,10,Automation Projects,9,2,6,UI/UX Design
+1RV24CS168,Priyansh,1st Year,6,6,Sensor Integration,7,9,9,Cyber Security
+1RV24CS169,Ojas,1st Year,8,10,Python Basics,7,3,2,Cyber Security
+1RV24CS170,Amani,1st Year,9,7,Automation Projects,5,8,7,Web Development
+1RV24CS171,Aaryahi,1st Year,6,9,Web Application Basics,4,1,9,Cloud Computing
+1RV24CS172,Jhanvi,1st Year,4,7,Sensor Integration,3,3,9,Data Science
+1RV24CS173,Stuvan,1st Year,7,2,Database Connectivity,9,10,3,App Development
+1RV24CS174,Ritvik,1st Year,7,4,Arduino Projects,1,1,1,Data Science
+1RV24CS175,Vidur,1st Year,10,1,Problem Solving,6,9,6,Game Development
+1RV24CS176,Emir,1st Year,2,9,Automation Projects,6,10,4,Game Development
+1RV24CS177,Baiju,1st Year,9,2,Sensor Integration,9,5,4,Robotics
+1RV24CS178,Renee,1st Year,7,5,Automation Projects,10,2,7,Cloud Computing
+1RV24CS179,Anaya,1st Year,8,1,Web Application Basics,1,10,2,IoT
+1RV24CS180,Neelofar,1st Year,4,8,Electronics Prototyping,6,4,2,UI/UX Design
+1RV24CS181,Ira,1st Year,2,4,Automation Projects,5,2,10,Robotics
+1RV24CS182,Damini,1st Year,4,10,Problem Solving,6,9,3,UI/UX Design
+1RV24CS183,Samar,1st Year,1,2,Sensor Integration,5,6,6,AI/ML
+1RV24CS184,Vritika,1st Year,2,4,Automation Projects,6,6,2,Web Development
+1RV24CS185,Parinaaz,1st Year,7,5,Embedded Systems,9,4,7,IoT
+1RV24CS186,Prisha,1st Year,5,2,Python Basics,2,9,8,IoT
+1RV24CS187,Sara,1st Year,3,10,Electronics Prototyping,7,6,10,App Development
+1RV24CS188,Priyansh,1st Year,9,10,Mini C Projects,1,1,7,UI/UX Design
+1RV24CS189,Chirag,1st Year,6,5,Electronics Prototyping,4,4,2,Cloud Computing
+1RV24CS190,Ahana ,1st Year,3,10,Embedded Systems,3,8,9,IoT
+1RV24CS191,Devansh,1st Year,8,3,Automation Projects,10,2,7,Game Development
+1RV24CS192,Saira,1st Year,9,4,Problem Solving,9,5,9,App Development
+1RV24CS193,Neysa,1st Year,6,2,Arduino Projects,10,8,8,IoT
+1RV24CS194,Anay,1st Year,10,4,Mini C Projects,6,8,8,AI/ML
+1RV24CS195,Shlok,1st Year,4,9,Python Basics,6,6,6,IoT
+1RV24CS196,Ehsaan,1st Year,5,4,Web Application Basics,2,10,9,Cyber Security
+1RV24CS197,Tushar,1st Year,6,7,Web Application Basics,2,1,2,Cyber Security
+1RV24CS198,Zaina,1st Year,5,7,Arduino Projects,4,2,8,AI/ML
+1RV24CS199,Divyansh,1st Year,2,7,Embedded Systems,6,3,8,Web Development
+1RV24CS200,Piya,1st Year,8,10,Electronics Prototyping,3,5,10,Cloud Computing
